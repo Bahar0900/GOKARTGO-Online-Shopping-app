@@ -1,0 +1,3 @@
+1.Netbeans
+2.mysql connector
+3.some libraries
